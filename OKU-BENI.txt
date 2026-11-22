@@ -1,0 +1,20 @@
+PİMBRU — METİN BUHRAN / TEK FOTOĞRAF REVİZYONU
+
+Başlatmak için index.html dosyasını açın. İnternet gerekmez.
+
+Bu sürümde yalnızca istenen çiçekli profil fotoğrafı vardır.
+- Profil resmi: foto/metin-profil-2020.jpg
+- Tek gönderi: Metin Buhran profil fotoğrafını güncelledi.
+- Tarih: 9 Eylül 2020
+- Örnek beğeni ve yorumlar bulunmaktadır.
+
+DÜĞÜN FOTOĞRAFI, DÜĞÜN GÖNDERİSİ VE ESKİ METİN PAYLAŞIMI TAMAMEN KALDIRILDI.
+Kullanılmayan düğün görseli ZIP dosyasında da yoktur.
+
+Düzenleme:
+- İsim, tarih, yorum, beğeni: veri.js
+- Görsel: foto/metin-profil-2020.jpg
+- Tasarım: stil.css
+- İşlevler: uygulama.js
+
+index.html#profil veya index.html#foto fotoğrafı tam ekranda açar.
