@@ -14,7 +14,7 @@ const AYARLAR = {
 
 const PROFIL = {
   ad: "Metin Buhran",
-  profilFoto: "foto/metin-profil-2020.jpg",   // kare fotoğraf
+  profilFoto: "metin-profil-2020.jpg",   // kare fotoğraf
   kapakRenk1: "#343b50",                  // kapak fotoğrafı yoksa bu iki renkte geçiş olur
   kapakRenk2: "#78869b",
   kapakFoto: "",                          // istersen "foto/kapak.jpg" yaz
@@ -32,7 +32,7 @@ const PAYLASIMLAR = [
     tur: "profil-guncelleme",
     tarih: "9 Eylül 2020",
     yazi: "",
-    foto: "foto/metin-profil-2020.jpg",
+    foto: "metin-profil-2020.jpg",
     begeni: 48,
     begenenler: "Salih Yıldırım ve diğer 47 kişi",
     yorumlar: [
